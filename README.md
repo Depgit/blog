@@ -1,2 +1,2 @@
 # blog
-a simple blog using react node express js
+a simple blog using node express js
